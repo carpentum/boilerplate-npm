@@ -1,6 +1,6 @@
 {
-  "author": "Mon Mosquera",
   "name": "fcc-learn-npm-package-json",
+  "author": "carpentum",
   "dependencies": {
     "express": "^4.14.0"
   },
